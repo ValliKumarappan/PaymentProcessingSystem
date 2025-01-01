@@ -9,3 +9,15 @@ D:\Sample\PaymentProcessingSystem\PaymentProcessingSystem.SharedKernel\obj\Debug
 D:\Sample\PaymentProcessingSystem\PaymentProcessingSystem.SharedKernel\obj\Debug\net8.0\refint\PaymentProcessingSystem.SharedKernel.dll
 D:\Sample\PaymentProcessingSystem\PaymentProcessingSystem.SharedKernel\obj\Debug\net8.0\PaymentProcessingSystem.SharedKernel.pdb
 D:\Sample\PaymentProcessingSystem\PaymentProcessingSystem.SharedKernel\obj\Debug\net8.0\ref\PaymentProcessingSystem.SharedKernel.dll
+D:\Sample\New folder\PaymentProcessingSystem\PaymentProcessingSystem.SharedKernel\bin\Debug\net8.0\PaymentProcessingSystem.SharedKernel.deps.json
+D:\Sample\New folder\PaymentProcessingSystem\PaymentProcessingSystem.SharedKernel\bin\Debug\net8.0\PaymentProcessingSystem.SharedKernel.dll
+D:\Sample\New folder\PaymentProcessingSystem\PaymentProcessingSystem.SharedKernel\bin\Debug\net8.0\PaymentProcessingSystem.SharedKernel.pdb
+D:\Sample\New folder\PaymentProcessingSystem\PaymentProcessingSystem.SharedKernel\obj\Debug\net8.0\PaymentProcessingSystem.SharedKernel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sample\New folder\PaymentProcessingSystem\PaymentProcessingSystem.SharedKernel\obj\Debug\net8.0\PaymentProcessingSystem.SharedKernel.AssemblyInfoInputs.cache
+D:\Sample\New folder\PaymentProcessingSystem\PaymentProcessingSystem.SharedKernel\obj\Debug\net8.0\PaymentProcessingSystem.SharedKernel.AssemblyInfo.cs
+D:\Sample\New folder\PaymentProcessingSystem\PaymentProcessingSystem.SharedKernel\obj\Debug\net8.0\PaymentProcessingSystem.SharedKernel.csproj.CoreCompileInputs.cache
+D:\Sample\New folder\PaymentProcessingSystem\PaymentProcessingSystem.SharedKernel\obj\Debug\net8.0\PaymentProcessingSystem.SharedKernel.sourcelink.json
+D:\Sample\New folder\PaymentProcessingSystem\PaymentProcessingSystem.SharedKernel\obj\Debug\net8.0\PaymentProcessingSystem.SharedKernel.dll
+D:\Sample\New folder\PaymentProcessingSystem\PaymentProcessingSystem.SharedKernel\obj\Debug\net8.0\refint\PaymentProcessingSystem.SharedKernel.dll
+D:\Sample\New folder\PaymentProcessingSystem\PaymentProcessingSystem.SharedKernel\obj\Debug\net8.0\PaymentProcessingSystem.SharedKernel.pdb
+D:\Sample\New folder\PaymentProcessingSystem\PaymentProcessingSystem.SharedKernel\obj\Debug\net8.0\ref\PaymentProcessingSystem.SharedKernel.dll

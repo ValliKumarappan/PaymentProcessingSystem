@@ -1,0 +1,501 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Sample\\New folder\\PaymentProcessingSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA439CA5-1777-4099-B02E-4BDC4ACA54F9}|PaymentProcessingSystem\\PaymentProcessingSystem.csproj|d:\\sample\\new folder\\paymentprocessingsystem\\paymentprocessingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA439CA5-1777-4099-B02E-4BDC4ACA54F9}|PaymentProcessingSystem\\PaymentProcessingSystem.csproj|solutionrelative:paymentprocessingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA439CA5-1777-4099-B02E-4BDC4ACA54F9}|PaymentProcessingSystem\\PaymentProcessingSystem.csproj|d:\\sample\\new folder\\paymentprocessingsystem\\paymentprocessingsystem\\extensions\\applicationmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA439CA5-1777-4099-B02E-4BDC4ACA54F9}|PaymentProcessingSystem\\PaymentProcessingSystem.csproj|solutionrelative:paymentprocessingsystem\\extensions\\applicationmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF0B3671-186E-4F25-AFA9-53C8F7444986}|PaymentProcessingSystem.Infrastructure\\PaymentProcessingSystem.Infrastructure.csproj|d:\\sample\\new folder\\paymentprocessingsystem\\paymentprocessingsystem.infrastructure\\persistence\\paymentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF0B3671-186E-4F25-AFA9-53C8F7444986}|PaymentProcessingSystem.Infrastructure\\PaymentProcessingSystem.Infrastructure.csproj|solutionrelative:paymentprocessingsystem.infrastructure\\persistence\\paymentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA439CA5-1777-4099-B02E-4BDC4ACA54F9}|PaymentProcessingSystem\\PaymentProcessingSystem.csproj|d:\\sample\\new folder\\paymentprocessingsystem\\paymentprocessingsystem\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA439CA5-1777-4099-B02E-4BDC4ACA54F9}|PaymentProcessingSystem\\PaymentProcessingSystem.csproj|solutionrelative:paymentprocessingsystem\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA439CA5-1777-4099-B02E-4BDC4ACA54F9}|PaymentProcessingSystem\\PaymentProcessingSystem.csproj|d:\\sample\\new folder\\paymentprocessingsystem\\paymentprocessingsystem\\extensions\\mediatormodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA439CA5-1777-4099-B02E-4BDC4ACA54F9}|PaymentProcessingSystem\\PaymentProcessingSystem.csproj|solutionrelative:paymentprocessingsystem\\extensions\\mediatormodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF0B3671-186E-4F25-AFA9-53C8F7444986}|PaymentProcessingSystem.Infrastructure\\PaymentProcessingSystem.Infrastructure.csproj|d:\\sample\\new folder\\paymentprocessingsystem\\paymentprocessingsystem.infrastructure\\services\\ientitiescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF0B3671-186E-4F25-AFA9-53C8F7444986}|PaymentProcessingSystem.Infrastructure\\PaymentProcessingSystem.Infrastructure.csproj|solutionrelative:paymentprocessingsystem.infrastructure\\services\\ientitiescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA439CA5-1777-4099-B02E-4BDC4ACA54F9}|PaymentProcessingSystem\\PaymentProcessingSystem.csproj|d:\\sample\\new folder\\paymentprocessingsystem\\paymentprocessingsystem\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FA439CA5-1777-4099-B02E-4BDC4ACA54F9}|PaymentProcessingSystem\\PaymentProcessingSystem.csproj|solutionrelative:paymentprocessingsystem\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB29F6DA-F9BD-40D7-9AEC-6D65E162047A}|PaymentProcessingSystem.Core\\PaymentProcessingSystem.Core.csproj|d:\\sample\\new folder\\paymentprocessingsystem\\paymentprocessingsystem.core\\commonresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB29F6DA-F9BD-40D7-9AEC-6D65E162047A}|PaymentProcessingSystem.Core\\PaymentProcessingSystem.Core.csproj|solutionrelative:paymentprocessingsystem.core\\commonresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB29F6DA-F9BD-40D7-9AEC-6D65E162047A}|PaymentProcessingSystem.Core\\PaymentProcessingSystem.Core.csproj|d:\\sample\\new folder\\paymentprocessingsystem\\paymentprocessingsystem.core\\commands\\createpaymentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB29F6DA-F9BD-40D7-9AEC-6D65E162047A}|PaymentProcessingSystem.Core\\PaymentProcessingSystem.Core.csproj|solutionrelative:paymentprocessingsystem.core\\commands\\createpaymentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF0B3671-186E-4F25-AFA9-53C8F7444986}|PaymentProcessingSystem.Infrastructure\\PaymentProcessingSystem.Infrastructure.csproj|d:\\sample\\new folder\\paymentprocessingsystem\\paymentprocessingsystem.infrastructure\\migrations\\20241230220253_add-payments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF0B3671-186E-4F25-AFA9-53C8F7444986}|PaymentProcessingSystem.Infrastructure\\PaymentProcessingSystem.Infrastructure.csproj|solutionrelative:paymentprocessingsystem.infrastructure\\migrations\\20241230220253_add-payments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03C2BED0-F247-42D2-A6BD-ACA04A9BBB83}|PaymentProcessingSystem.SharedKernel\\PaymentProcessingSystem.SharedKernel.csproj|d:\\sample\\new folder\\paymentprocessingsystem\\paymentprocessingsystem.sharedkernel\\domain\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03C2BED0-F247-42D2-A6BD-ACA04A9BBB83}|PaymentProcessingSystem.SharedKernel\\PaymentProcessingSystem.SharedKernel.csproj|solutionrelative:paymentprocessingsystem.sharedkernel\\domain\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB29F6DA-F9BD-40D7-9AEC-6D65E162047A}|PaymentProcessingSystem.Core\\PaymentProcessingSystem.Core.csproj|d:\\sample\\new folder\\paymentprocessingsystem\\paymentprocessingsystem.core\\queries\\paymentqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB29F6DA-F9BD-40D7-9AEC-6D65E162047A}|PaymentProcessingSystem.Core\\PaymentProcessingSystem.Core.csproj|solutionrelative:paymentprocessingsystem.core\\queries\\paymentqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB29F6DA-F9BD-40D7-9AEC-6D65E162047A}|PaymentProcessingSystem.Core\\PaymentProcessingSystem.Core.csproj|d:\\sample\\new folder\\paymentprocessingsystem\\paymentprocessingsystem.core\\queries\\ipaymentqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB29F6DA-F9BD-40D7-9AEC-6D65E162047A}|PaymentProcessingSystem.Core\\PaymentProcessingSystem.Core.csproj|solutionrelative:paymentprocessingsystem.core\\queries\\ipaymentqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 70,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:147:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:148:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:149:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:150:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:151:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:152:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:153:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:154:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:155:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:156:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:157:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:158:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:159:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:148:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:146:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:147:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:146:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:160:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:161:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:162:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:163:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:164:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:165:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:166:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:167:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:168:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:169:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:170:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:171:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:172:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:174:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:175:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:173:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:176:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:177:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:179:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:180:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:181:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:182:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:184:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:178:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:183:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IEntitiesContext.cs",
+              "DocumentMoniker": "D:\\Sample\\New folder\\PaymentProcessingSystem\\PaymentProcessingSystem.Infrastructure\\Services\\IEntitiesContext.cs",
+              "RelativeDocumentMoniker": "PaymentProcessingSystem.Infrastructure\\Services\\IEntitiesContext.cs",
+              "ToolTip": "D:\\Sample\\New folder\\PaymentProcessingSystem\\PaymentProcessingSystem.Infrastructure\\Services\\IEntitiesContext.cs",
+              "RelativeToolTip": "PaymentProcessingSystem.Infrastructure\\Services\\IEntitiesContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T19:26:45.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationModule.cs",
+              "DocumentMoniker": "D:\\Sample\\New folder\\PaymentProcessingSystem\\PaymentProcessingSystem\\Extensions\\ApplicationModule.cs",
+              "RelativeDocumentMoniker": "PaymentProcessingSystem\\Extensions\\ApplicationModule.cs",
+              "ToolTip": "D:\\Sample\\New folder\\PaymentProcessingSystem\\PaymentProcessingSystem\\Extensions\\ApplicationModule.cs",
+              "RelativeToolTip": "PaymentProcessingSystem\\Extensions\\ApplicationModule.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAUwBsAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T19:23:19.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PaymentContext.cs",
+              "DocumentMoniker": "D:\\Sample\\New folder\\PaymentProcessingSystem\\PaymentProcessingSystem.Infrastructure\\Persistence\\PaymentContext.cs",
+              "RelativeDocumentMoniker": "PaymentProcessingSystem.Infrastructure\\Persistence\\PaymentContext.cs",
+              "ToolTip": "D:\\Sample\\New folder\\PaymentProcessingSystem\\PaymentProcessingSystem.Infrastructure\\Persistence\\PaymentContext.cs",
+              "RelativeToolTip": "PaymentProcessingSystem.Infrastructure\\Persistence\\PaymentContext.cs",
+              "ViewState": "AQIAAHsAAAAAAAAAAAAAAIYAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T19:10:04.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "D:\\Sample\\New folder\\PaymentProcessingSystem\\PaymentProcessingSystem\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "PaymentProcessingSystem\\Controllers\\PaymentController.cs",
+              "ToolTip": "D:\\Sample\\New folder\\PaymentProcessingSystem\\PaymentProcessingSystem\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "PaymentProcessingSystem\\Controllers\\PaymentController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAwwBUAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T17:43:19.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Sample\\New folder\\PaymentProcessingSystem\\PaymentProcessingSystem\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "PaymentProcessingSystem\\appsettings.Development.json",
+              "ToolTip": "D:\\Sample\\New folder\\PaymentProcessingSystem\\PaymentProcessingSystem\\appsettings.Development.json",
+              "RelativeToolTip": "PaymentProcessingSystem\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-01T14:04:00.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Sample\\New folder\\PaymentProcessingSystem\\PaymentProcessingSystem\\Program.cs",
+              "RelativeDocumentMoniker": "PaymentProcessingSystem\\Program.cs",
+              "ToolTip": "D:\\Sample\\New folder\\PaymentProcessingSystem\\PaymentProcessingSystem\\Program.cs",
+              "RelativeToolTip": "PaymentProcessingSystem\\Program.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAuwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T18:17:27.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MediatorModule.cs",
+              "DocumentMoniker": "D:\\Sample\\New folder\\PaymentProcessingSystem\\PaymentProcessingSystem\\Extensions\\MediatorModule.cs",
+              "RelativeDocumentMoniker": "PaymentProcessingSystem\\Extensions\\MediatorModule.cs",
+              "ToolTip": "D:\\Sample\\New folder\\PaymentProcessingSystem\\PaymentProcessingSystem\\Extensions\\MediatorModule.cs",
+              "RelativeToolTip": "PaymentProcessingSystem\\Extensions\\MediatorModule.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T19:31:14.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CommonResponse.cs",
+              "DocumentMoniker": "D:\\Sample\\New folder\\PaymentProcessingSystem\\PaymentProcessingSystem.Core\\CommonResponse.cs",
+              "RelativeDocumentMoniker": "PaymentProcessingSystem.Core\\CommonResponse.cs",
+              "ToolTip": "D:\\Sample\\New folder\\PaymentProcessingSystem\\PaymentProcessingSystem.Core\\CommonResponse.cs",
+              "RelativeToolTip": "PaymentProcessingSystem.Core\\CommonResponse.cs",
+              "ViewState": "AQIAAOkAAAAAAAAAAAAUwO0AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T19:11:11.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreatePaymentCommand.cs",
+              "DocumentMoniker": "D:\\Sample\\New folder\\PaymentProcessingSystem\\PaymentProcessingSystem.Core\\Commands\\CreatePaymentCommand.cs",
+              "RelativeDocumentMoniker": "PaymentProcessingSystem.Core\\Commands\\CreatePaymentCommand.cs",
+              "ToolTip": "D:\\Sample\\New folder\\PaymentProcessingSystem\\PaymentProcessingSystem.Core\\Commands\\CreatePaymentCommand.cs",
+              "RelativeToolTip": "PaymentProcessingSystem.Core\\Commands\\CreatePaymentCommand.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T18:57:19.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20241230220253_add-Payments.cs",
+              "DocumentMoniker": "D:\\Sample\\New folder\\PaymentProcessingSystem\\PaymentProcessingSystem.Infrastructure\\Migrations\\20241230220253_add-Payments.cs",
+              "RelativeDocumentMoniker": "PaymentProcessingSystem.Infrastructure\\Migrations\\20241230220253_add-Payments.cs",
+              "ToolTip": "D:\\Sample\\New folder\\PaymentProcessingSystem\\PaymentProcessingSystem.Infrastructure\\Migrations\\20241230220253_add-Payments.cs",
+              "RelativeToolTip": "PaymentProcessingSystem.Infrastructure\\Migrations\\20241230220253_add-Payments.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAkwBgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T19:08:40.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "D:\\Sample\\New folder\\PaymentProcessingSystem\\PaymentProcessingSystem.SharedKernel\\Domain\\Payment.cs",
+              "RelativeDocumentMoniker": "PaymentProcessingSystem.SharedKernel\\Domain\\Payment.cs",
+              "ToolTip": "D:\\Sample\\New folder\\PaymentProcessingSystem\\PaymentProcessingSystem.SharedKernel\\Domain\\Payment.cs",
+              "RelativeToolTip": "PaymentProcessingSystem.SharedKernel\\Domain\\Payment.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA/wBkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T19:01:52.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PaymentQueries.cs",
+              "DocumentMoniker": "D:\\Sample\\New folder\\PaymentProcessingSystem\\PaymentProcessingSystem.Core\\Queries\\PaymentQueries.cs",
+              "RelativeDocumentMoniker": "PaymentProcessingSystem.Core\\Queries\\PaymentQueries.cs",
+              "ToolTip": "D:\\Sample\\New folder\\PaymentProcessingSystem\\PaymentProcessingSystem.Core\\Queries\\PaymentQueries.cs",
+              "RelativeToolTip": "PaymentProcessingSystem.Core\\Queries\\PaymentQueries.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T18:54:04.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IPaymentQueries.cs",
+              "DocumentMoniker": "D:\\Sample\\New folder\\PaymentProcessingSystem\\PaymentProcessingSystem.Core\\Queries\\IPaymentQueries.cs",
+              "RelativeDocumentMoniker": "PaymentProcessingSystem.Core\\Queries\\IPaymentQueries.cs",
+              "ToolTip": "D:\\Sample\\New folder\\PaymentProcessingSystem\\PaymentProcessingSystem.Core\\Queries\\IPaymentQueries.cs",
+              "RelativeToolTip": "PaymentProcessingSystem.Core\\Queries\\IPaymentQueries.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T18:53:52.26Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

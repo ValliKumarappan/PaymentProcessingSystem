@@ -12,5 +12,19 @@ namespace PaymentProcessingSystem.SharedKernel.Domain
         public DateTime TransactionDate { get; set; }
         public int CustomerId { get; set; }
         public Customer Customer { get; set; }
+        public Payment()
+        {
+
+        }
+        public Payment( decimal amount, string currency, PaymentMethod paymentMethod, EntityStatusEnum status, DateTime transactionDate, int customerId)
+        {
+            Amount = amount;
+            Currency = currency;
+            PaymentMethod = paymentMethod;
+            Status = status;
+            TransactionDate = transactionDate;
+            CustomerId = customerId;
+        }
     }
+   
 }

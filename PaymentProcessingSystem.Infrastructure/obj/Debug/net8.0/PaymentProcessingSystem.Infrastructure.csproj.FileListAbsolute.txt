@@ -15,3 +15,21 @@ D:\Sample\PaymentProcessingSystem\PaymentProcessingSystem.Infrastructure\obj\Deb
 D:\Sample\PaymentProcessingSystem\PaymentProcessingSystem.Infrastructure\obj\Debug\net8.0\PaymentProcessingSystem.Infrastructure.pdb
 D:\Sample\PaymentProcessingSystem\PaymentProcessingSystem.Infrastructure\obj\Debug\net8.0\PaymentProcessingSystem.Infrastructure.genruntimeconfig.cache
 D:\Sample\PaymentProcessingSystem\PaymentProcessingSystem.Infrastructure\obj\Debug\net8.0\ref\PaymentProcessingSystem.Infrastructure.dll
+D:\Sample\New folder\PaymentProcessingSystem\PaymentProcessingSystem.Infrastructure\bin\Debug\net8.0\PaymentProcessingSystem.Infrastructure.deps.json
+D:\Sample\New folder\PaymentProcessingSystem\PaymentProcessingSystem.Infrastructure\bin\Debug\net8.0\PaymentProcessingSystem.Infrastructure.runtimeconfig.json
+D:\Sample\New folder\PaymentProcessingSystem\PaymentProcessingSystem.Infrastructure\bin\Debug\net8.0\PaymentProcessingSystem.Infrastructure.dll
+D:\Sample\New folder\PaymentProcessingSystem\PaymentProcessingSystem.Infrastructure\bin\Debug\net8.0\PaymentProcessingSystem.Infrastructure.pdb
+D:\Sample\New folder\PaymentProcessingSystem\PaymentProcessingSystem.Infrastructure\bin\Debug\net8.0\PaymentProcessingSystem.SharedKernel.dll
+D:\Sample\New folder\PaymentProcessingSystem\PaymentProcessingSystem.Infrastructure\bin\Debug\net8.0\PaymentProcessingSystem.SharedKernel.pdb
+D:\Sample\New folder\PaymentProcessingSystem\PaymentProcessingSystem.Infrastructure\obj\Debug\net8.0\PaymentProcessingSystem.Infrastructure.csproj.AssemblyReference.cache
+D:\Sample\New folder\PaymentProcessingSystem\PaymentProcessingSystem.Infrastructure\obj\Debug\net8.0\PaymentProcessingSystem.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sample\New folder\PaymentProcessingSystem\PaymentProcessingSystem.Infrastructure\obj\Debug\net8.0\PaymentProcessingSystem.Infrastructure.AssemblyInfoInputs.cache
+D:\Sample\New folder\PaymentProcessingSystem\PaymentProcessingSystem.Infrastructure\obj\Debug\net8.0\PaymentProcessingSystem.Infrastructure.AssemblyInfo.cs
+D:\Sample\New folder\PaymentProcessingSystem\PaymentProcessingSystem.Infrastructure\obj\Debug\net8.0\PaymentProcessingSystem.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Sample\New folder\PaymentProcessingSystem\PaymentProcessingSystem.Infrastructure\obj\Debug\net8.0\PaymentProcessingSystem.Infrastructure.sourcelink.json
+D:\Sample\New folder\PaymentProcessingSystem\PaymentProcessingSystem.Infrastructure\obj\Debug\net8.0\PaymentP.FAE953A9.Up2Date
+D:\Sample\New folder\PaymentProcessingSystem\PaymentProcessingSystem.Infrastructure\obj\Debug\net8.0\PaymentProcessingSystem.Infrastructure.dll
+D:\Sample\New folder\PaymentProcessingSystem\PaymentProcessingSystem.Infrastructure\obj\Debug\net8.0\refint\PaymentProcessingSystem.Infrastructure.dll
+D:\Sample\New folder\PaymentProcessingSystem\PaymentProcessingSystem.Infrastructure\obj\Debug\net8.0\PaymentProcessingSystem.Infrastructure.pdb
+D:\Sample\New folder\PaymentProcessingSystem\PaymentProcessingSystem.Infrastructure\obj\Debug\net8.0\PaymentProcessingSystem.Infrastructure.genruntimeconfig.cache
+D:\Sample\New folder\PaymentProcessingSystem\PaymentProcessingSystem.Infrastructure\obj\Debug\net8.0\ref\PaymentProcessingSystem.Infrastructure.dll
