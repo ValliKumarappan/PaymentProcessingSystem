@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Px54SAMCtKrAyfH27Zhr+iyM7FAVcZD/WZD/RKUYkks=",
+  "Source": "PaymentProcessingSystem",
+  "BasePath": "_content/PaymentProcessingSystem",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,17 @@
+D:\Sample\PaymentProcessingSystem\PaymentProcessingSystem.Core\obj\Debug\net8.0\PaymentProcessingSystem.Core.csproj.AssemblyReference.cache
+D:\Sample\PaymentProcessingSystem\PaymentProcessingSystem.Core\obj\Debug\net8.0\PaymentProcessingSystem.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sample\PaymentProcessingSystem\PaymentProcessingSystem.Core\obj\Debug\net8.0\PaymentProcessingSystem.Core.AssemblyInfoInputs.cache
+D:\Sample\PaymentProcessingSystem\PaymentProcessingSystem.Core\obj\Debug\net8.0\PaymentProcessingSystem.Core.AssemblyInfo.cs
+D:\Sample\PaymentProcessingSystem\PaymentProcessingSystem.Core\obj\Debug\net8.0\PaymentProcessingSystem.Core.csproj.CoreCompileInputs.cache
+D:\Sample\PaymentProcessingSystem\PaymentProcessingSystem.Core\bin\Debug\net8.0\PaymentProcessingSystem.Core.deps.json
+D:\Sample\PaymentProcessingSystem\PaymentProcessingSystem.Core\bin\Debug\net8.0\PaymentProcessingSystem.Core.dll
+D:\Sample\PaymentProcessingSystem\PaymentProcessingSystem.Core\bin\Debug\net8.0\PaymentProcessingSystem.Core.pdb
+D:\Sample\PaymentProcessingSystem\PaymentProcessingSystem.Core\bin\Debug\net8.0\PaymentProcessingSystem.Infrastructure.dll
+D:\Sample\PaymentProcessingSystem\PaymentProcessingSystem.Core\bin\Debug\net8.0\PaymentProcessingSystem.SharedKernel.dll
+D:\Sample\PaymentProcessingSystem\PaymentProcessingSystem.Core\bin\Debug\net8.0\PaymentProcessingSystem.Infrastructure.pdb
+D:\Sample\PaymentProcessingSystem\PaymentProcessingSystem.Core\bin\Debug\net8.0\PaymentProcessingSystem.SharedKernel.pdb
+D:\Sample\PaymentProcessingSystem\PaymentProcessingSystem.Core\obj\Debug\net8.0\PaymentP.E684F3BA.Up2Date
+D:\Sample\PaymentProcessingSystem\PaymentProcessingSystem.Core\obj\Debug\net8.0\PaymentProcessingSystem.Core.dll
+D:\Sample\PaymentProcessingSystem\PaymentProcessingSystem.Core\obj\Debug\net8.0\refint\PaymentProcessingSystem.Core.dll
+D:\Sample\PaymentProcessingSystem\PaymentProcessingSystem.Core\obj\Debug\net8.0\PaymentProcessingSystem.Core.pdb
+D:\Sample\PaymentProcessingSystem\PaymentProcessingSystem.Core\obj\Debug\net8.0\ref\PaymentProcessingSystem.Core.dll
