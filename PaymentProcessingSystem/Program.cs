@@ -25,7 +25,14 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddScoped<IPaymentQueries, PaymentQueries>();
-builder.RegisterType(typeof(PaymentContext)).As(typeof(IEntitiesContext)).InstancePerLifetimeScope();
+builder.Services.AddDbContext<PaymentContext>(options =>
+    options.UseSqlServer(configuration.GetConnectionString("ConnectionStrings:PaymentDb")));
+builder.Host.UseServiceProviderFactory(new AutofacServiceProviderFactory())
+    .ConfigureContainer<ContainerBuilder>(builder =>
+    {
+        builder.RegisterModule(new ApplicationModule(configuration));
+        builder.RegisterModule(new MediatorModule());
+    });
 
 var app = builder.Build();
 // Configure the HTTP request pipeline.
@@ -38,12 +45,6 @@ app.UseHttpsRedirection();
 app.UseAuthorization();
 app.MapControllers();
 
-builder.Host.UseServiceProviderFactory(new AutofacServiceProviderFactory())
-    .ConfigureContainer<ContainerBuilder>(builder =>
-    {
-        builder.RegisterModule(new ApplicationModule(configuration));
-        builder.RegisterModule(new MediatorModule());
-    });
 
 using (var scope = app.Services.CreateScope())
 {

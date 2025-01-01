@@ -2140,6 +2140,7 @@
       },
       "PaymentProcessingSystem.Core/1.0.0": {
         "dependencies": {
+          "MediatR": "12.4.1",
           "Mvc.ModelBinding.MultiParameter": "8.2.2",
           "Newtonsoft.Json": "13.0.3",
           "PaymentProcessingSystem.Infrastructure": "1.0.0",

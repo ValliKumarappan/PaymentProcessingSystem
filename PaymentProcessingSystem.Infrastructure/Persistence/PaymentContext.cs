@@ -3,11 +3,12 @@ using Microsoft.EntityFrameworkCore.ChangeTracking;
 using Microsoft.EntityFrameworkCore.Design;
 using Microsoft.Extensions.Configuration;
 using PaymentProcessingSystem.Infrastructure.Persistence.EntityConfigurations;
+using PaymentProcessingSystem.Infrastructure.Services;
 using PaymentProcessingSystem.SharedKernel.Domain;
 
 namespace PaymentProcessingSystem.Infrastructure.Persistence
 {
-    public class PaymentContext : DbContext
+    public class PaymentContext : DbContext, IEntitiesContext
     {
         public PaymentContext() { }
         static SemaphoreSlim semaphoreSlim = new SemaphoreSlim(1, 1);
@@ -139,7 +140,11 @@ namespace PaymentProcessingSystem.Infrastructure.Persistence
                  .AddJsonFile($"appsettings.{envName}.json", optional: true)
                  .Build();
 
-            var connectionString = configuration["ConnectionStrings:PaymentsDb"];
+            var connectionString =
+              //  "Data Source=DESKTOP-IKICVPM\\SQLEXPRESS;Initial Catalog=PaymentDb;TrustServerCertificate=true;MultipleActiveResultSets=true";
+              "Server=10.0.2.51;Database=PaymentProcessingDb;User ID=travesys;Password=bnlgjrsHJHJ@123#;TrustServerCertificate=true";
+
+            //var connectionString = configuration["ConnectionStrings:PaymentsDb"];
             var optionsBuilder = new DbContextOptionsBuilder<PaymentContext>()
                 .UseSqlServer(connectionString);
 
