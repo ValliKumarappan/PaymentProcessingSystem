@@ -1,5 +1,9 @@
-﻿namespace PaymentProcessingSystem.Core.Queries;
+﻿using PaymentProcessingSystem.SharedKernel.FilterModels;
 
-public class IPaymentQueries
+namespace PaymentProcessingSystem.Core.Queries;
+
+public interface IPaymentQueries
 {
+    Task<CommonResponse> GetList(PaymentFilters filter);
+    Task<CommonResponse> GetListByUsers(string name);
 }

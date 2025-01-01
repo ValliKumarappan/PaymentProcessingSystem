@@ -173,7 +173,6 @@ D:\Sample\PaymentProcessingSystem\PaymentProcessingSystem\obj\Debug\net8.0\Payme
 D:\Sample\PaymentProcessingSystem\PaymentProcessingSystem\obj\Debug\net8.0\PaymentProcessingSystem.genruntimeconfig.cache
 D:\Sample\PaymentProcessingSystem\PaymentProcessingSystem\obj\Debug\net8.0\ref\PaymentProcessingSystem.dll
 D:\Sample\New folder\PaymentProcessingSystem\PaymentProcessingSystem\obj\Debug\net8.0\PaymentProcessingSystem.csproj.AssemblyReference.cache
-D:\Sample\New folder\PaymentProcessingSystem\PaymentProcessingSystem\obj\Debug\net8.0\PaymentProcessingSystem.GeneratedMSBuildEditorConfig.editorconfig
 D:\Sample\New folder\PaymentProcessingSystem\PaymentProcessingSystem\obj\Debug\net8.0\PaymentProcessingSystem.AssemblyInfoInputs.cache
 D:\Sample\New folder\PaymentProcessingSystem\PaymentProcessingSystem\obj\Debug\net8.0\PaymentProcessingSystem.AssemblyInfo.cs
 D:\Sample\New folder\PaymentProcessingSystem\PaymentProcessingSystem\obj\Debug\net8.0\PaymentProcessingSystem.csproj.CoreCompileInputs.cache
@@ -260,7 +259,6 @@ D:\Sample\New folder\PaymentProcessingSystem\PaymentProcessingSystem\bin\Debug\n
 D:\Sample\New folder\PaymentProcessingSystem\PaymentProcessingSystem\bin\Debug\net8.0\System.Memory.Data.dll
 D:\Sample\New folder\PaymentProcessingSystem\PaymentProcessingSystem\bin\Debug\net8.0\System.Runtime.Caching.dll
 D:\Sample\New folder\PaymentProcessingSystem\PaymentProcessingSystem\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
-D:\Sample\New folder\PaymentProcessingSystem\PaymentProcessingSystem\bin\Debug\net8.0\System.Security.Permissions.dll
 D:\Sample\New folder\PaymentProcessingSystem\PaymentProcessingSystem\bin\Debug\net8.0\System.Text.Encodings.Web.dll
 D:\Sample\New folder\PaymentProcessingSystem\PaymentProcessingSystem\bin\Debug\net8.0\System.Text.Json.dll
 D:\Sample\New folder\PaymentProcessingSystem\PaymentProcessingSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
@@ -348,3 +346,22 @@ D:\Sample\New folder\PaymentProcessingSystem\PaymentProcessingSystem\obj\Debug\n
 D:\Sample\New folder\PaymentProcessingSystem\PaymentProcessingSystem\obj\Debug\net8.0\ref\PaymentProcessingSystem.dll
 D:\Sample\New folder\PaymentProcessingSystem\PaymentProcessingSystem\bin\Debug\net8.0\Autofac.dll
 D:\Sample\New folder\PaymentProcessingSystem\PaymentProcessingSystem\bin\Debug\net8.0\Autofac.Extensions.DependencyInjection.dll
+D:\Sample\New folder\PaymentProcessingSystem\PaymentProcessingSystem\obj\Debug\net8.0\PaymentProcessingSystem.d-bfalse.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sample\New folder\PaymentProcessingSystem\PaymentProcessingSystem\bin\Debug\net8.0\PaymentProcessingSystem\appsettings.Development.json
+D:\Sample\New folder\PaymentProcessingSystem\PaymentProcessingSystem\bin\Debug\net8.0\PaymentProcessingSystem\appsettings.json
+D:\Sample\New folder\PaymentProcessingSystem\PaymentProcessingSystem\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+D:\Sample\New folder\PaymentProcessingSystem\PaymentProcessingSystem\bin\Debug\net8.0\System.Resources.Extensions.dll
+D:\Sample\New folder\PaymentProcessingSystem\PaymentProcessingSystem\bin\Debug\net8.0\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\Sample\New folder\PaymentProcessingSystem\PaymentProcessingSystem\bin\Debug\net8.0\Uno.Diagnostics.Eventing.dll
+D:\Sample\New folder\PaymentProcessingSystem\PaymentProcessingSystem\bin\Debug\net8.0\Uno.Fonts.Fluent.dll
+D:\Sample\New folder\PaymentProcessingSystem\PaymentProcessingSystem\bin\Debug\net8.0\Uno.Foundation.Logging.dll
+D:\Sample\New folder\PaymentProcessingSystem\PaymentProcessingSystem\bin\Debug\net8.0\Uno.Foundation.dll
+D:\Sample\New folder\PaymentProcessingSystem\PaymentProcessingSystem\bin\Debug\net8.0\Uno.UI.Composition.dll
+D:\Sample\New folder\PaymentProcessingSystem\PaymentProcessingSystem\bin\Debug\net8.0\Uno.UI.Dispatching.dll
+D:\Sample\New folder\PaymentProcessingSystem\PaymentProcessingSystem\bin\Debug\net8.0\Uno.UI.FluentTheme.dll
+D:\Sample\New folder\PaymentProcessingSystem\PaymentProcessingSystem\bin\Debug\net8.0\Uno.UI.FluentTheme.v1.dll
+D:\Sample\New folder\PaymentProcessingSystem\PaymentProcessingSystem\bin\Debug\net8.0\Uno.UI.FluentTheme.v2.dll
+D:\Sample\New folder\PaymentProcessingSystem\PaymentProcessingSystem\bin\Debug\net8.0\Uno.UI.Toolkit.dll
+D:\Sample\New folder\PaymentProcessingSystem\PaymentProcessingSystem\bin\Debug\net8.0\Uno.UI.dll
+D:\Sample\New folder\PaymentProcessingSystem\PaymentProcessingSystem\bin\Debug\net8.0\Uno.Xaml.dll
+D:\Sample\New folder\PaymentProcessingSystem\PaymentProcessingSystem\bin\Debug\net8.0\Uno.dll

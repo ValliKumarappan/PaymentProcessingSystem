@@ -24,6 +24,18 @@ namespace PaymentProcessingSystem.SharedKernel.Domain
             Status = status;
             TransactionDate = transactionDate;
             CustomerId = customerId;
+            CreatedOn = DateTime.UtcNow;
+
+        }
+        public void Update(decimal amount, string currency, PaymentMethod paymentMethod, EntityStatusEnum status, DateTime transactionDate, int customerId)
+        {
+            Amount = amount;
+            Currency = currency;
+            PaymentMethod = paymentMethod;
+            Status = status;
+            TransactionDate = transactionDate;
+            CustomerId = customerId;
+            CreatedOn = DateTime.UtcNow;
         }
     }
    

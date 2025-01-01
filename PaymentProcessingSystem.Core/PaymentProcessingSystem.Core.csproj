@@ -8,9 +8,11 @@
 
   <ItemGroup>
     <PackageReference Include="MediatR" Version="12.4.1" />
+    <PackageReference Include="Microsoft.Build.Tasks.Core" Version="17.12.6" />
     <PackageReference Include="Mvc.ModelBinding.MultiParameter" Version="8.2.2" />
     <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
     <PackageReference Include="System.Linq" Version="4.3.0" />
+    <PackageReference Include="Uno.UI" Version="5.5.94" />
   </ItemGroup>
 
   <ItemGroup>

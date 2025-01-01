@@ -1,4 +1,6 @@
 ﻿using Autofac;
+using MediatR;
+using PaymentProcessingSystem.Core.Commands;
 using PaymentProcessingSystem.Infrastructure.Persistence;
 using PaymentProcessingSystem.Infrastructure.Services;
 
@@ -24,7 +26,9 @@ public class ApplicationModule : Module
         builder.RegisterType<HttpContextAccessor>().As<IHttpContextAccessor>();
 
         //repositories dependencies
-
+        builder.RegisterAssemblyTypes(typeof(CreatePaymentCommand).Assembly)
+       .AsClosedTypesOf(typeof(IRequestHandler<,>))
+       .AsImplementedInterfaces();
         builder.RegisterType(typeof(PaymentContext)).As(typeof(IEntitiesContext)).InstancePerLifetimeScope();
     }
 }

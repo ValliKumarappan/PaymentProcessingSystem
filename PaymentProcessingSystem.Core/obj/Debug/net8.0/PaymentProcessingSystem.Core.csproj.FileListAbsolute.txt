@@ -16,7 +16,6 @@ D:\Sample\PaymentProcessingSystem\PaymentProcessingSystem.Core\obj\Debug\net8.0\
 D:\Sample\PaymentProcessingSystem\PaymentProcessingSystem.Core\obj\Debug\net8.0\PaymentProcessingSystem.Core.pdb
 D:\Sample\PaymentProcessingSystem\PaymentProcessingSystem.Core\obj\Debug\net8.0\ref\PaymentProcessingSystem.Core.dll
 D:\Sample\New folder\PaymentProcessingSystem\PaymentProcessingSystem.Core\obj\Debug\net8.0\PaymentProcessingSystem.Core.csproj.AssemblyReference.cache
-D:\Sample\New folder\PaymentProcessingSystem\PaymentProcessingSystem.Core\obj\Debug\net8.0\PaymentProcessingSystem.Core.GeneratedMSBuildEditorConfig.editorconfig
 D:\Sample\New folder\PaymentProcessingSystem\PaymentProcessingSystem.Core\obj\Debug\net8.0\PaymentProcessingSystem.Core.AssemblyInfoInputs.cache
 D:\Sample\New folder\PaymentProcessingSystem\PaymentProcessingSystem.Core\obj\Debug\net8.0\PaymentProcessingSystem.Core.AssemblyInfo.cs
 D:\Sample\New folder\PaymentProcessingSystem\PaymentProcessingSystem.Core\obj\Debug\net8.0\PaymentProcessingSystem.Core.csproj.CoreCompileInputs.cache
@@ -33,3 +32,4 @@ D:\Sample\New folder\PaymentProcessingSystem\PaymentProcessingSystem.Core\bin\De
 D:\Sample\New folder\PaymentProcessingSystem\PaymentProcessingSystem.Core\bin\Debug\net8.0\PaymentProcessingSystem.SharedKernel.pdb
 D:\Sample\New folder\PaymentProcessingSystem\PaymentProcessingSystem.Core\obj\Debug\net8.0\PaymentP.E684F3BA.Up2Date
 D:\Sample\New folder\PaymentProcessingSystem\PaymentProcessingSystem.Core\obj\Debug\net8.0\ref\PaymentProcessingSystem.Core.dll
+D:\Sample\New folder\PaymentProcessingSystem\PaymentProcessingSystem.Core\obj\Debug\net8.0\PaymentProcessingSystem.Core.d-bfalse.GeneratedMSBuildEditorConfig.editorconfig

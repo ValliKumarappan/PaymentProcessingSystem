@@ -20,26 +20,20 @@ public class CreatePaymentCommand : IRequest<CommonResponse>
     public DateTime TransactionDate { get; set; }
     public int CustomerId { get; set; }
 }
-public class CreatePaymentCommandHandler(PaymentContext context) : IRequestHandler<CreatePaymentCommand,CommonResponse>
+public class CreatePaymentCommandHandler(PaymentContext context) : IRequestHandler<CreatePaymentCommand, CommonResponse>
 {
-
-
     public async Task<CommonResponse> Handle(CreatePaymentCommand message, CancellationToken cancellationToken)
     {
         try
         {
 
-            var policyModel = new Payment(message.Amount, message.Currency, message.PaymentMethod,
+            var paymentModel = new Payment(message.Amount, message.Currency, message.PaymentMethod,
                 message.Status, message.TransactionDate, message.CustomerId);
 
-            context.Payments.Add(policyModel);
+            context.Payments.Add(paymentModel);
             context.SaveChanges();
 
-            //if (!result)
-            //    return CommonResponse.CreateFailedResponse("Some error occured while saving policy, try again later");
-
-           return CommonResponse.CreateSuccessResponse($"Policy Id {policyModel.Id} Updated Added to Database",
-                policyModel.Id);
+            return CommonResponse.CreateSuccessResponse($"Payment {paymentModel.Id} created", paymentModel.Id);
         }
         catch (Exception ex)
         {

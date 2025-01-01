@@ -13,6 +13,8 @@
     <SourceRoot Include="C:\Users\TCIG-Valli\.nuget\packages\" />
   </ItemGroup>
   <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Import Project="$(NuGetPackageRoot)uno.fonts.fluent\2.4.5\buildTransitive\Uno.Fonts.Fluent.props" Condition="Exists('$(NuGetPackageRoot)uno.fonts.fluent\2.4.5\buildTransitive\Uno.Fonts.Fluent.props')" />
+    <Import Project="$(NuGetPackageRoot)uno.ui\5.5.94\buildTransitive\net8.0\Uno.UI.props" Condition="Exists('$(NuGetPackageRoot)uno.ui\5.5.94\buildTransitive\net8.0\Uno.UI.props')" />
     <Import Project="$(NuGetPackageRoot)microsoft.extensions.apidescription.server\6.0.5\build\Microsoft.Extensions.ApiDescription.Server.props" Condition="Exists('$(NuGetPackageRoot)microsoft.extensions.apidescription.server\6.0.5\build\Microsoft.Extensions.ApiDescription.Server.props')" />
     <Import Project="$(NuGetPackageRoot)swashbuckle.aspnetcore\6.4.0\build\Swashbuckle.AspNetCore.props" Condition="Exists('$(NuGetPackageRoot)swashbuckle.aspnetcore\6.4.0\build\Swashbuckle.AspNetCore.props')" />
     <Import Project="$(NuGetPackageRoot)microsoft.entityframeworkcore\9.0.0\buildTransitive\net8.0\Microsoft.EntityFrameworkCore.props" Condition="Exists('$(NuGetPackageRoot)microsoft.entityframeworkcore\9.0.0\buildTransitive\net8.0\Microsoft.EntityFrameworkCore.props')" />
@@ -22,6 +24,7 @@
     <Import Project="$(NuGetPackageRoot)microsoft.aspnetcore.mvc.razor.extensions\2.1.1\build\netstandard2.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.props" Condition="Exists('$(NuGetPackageRoot)microsoft.aspnetcore.mvc.razor.extensions\2.1.1\build\netstandard2.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.props')" />
   </ImportGroup>
   <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <PkgUno_UI Condition=" '$(PkgUno_UI)' == '' ">C:\Users\TCIG-Valli\.nuget\packages\uno.ui\5.5.94</PkgUno_UI>
     <PkgMicrosoft_Extensions_ApiDescription_Server Condition=" '$(PkgMicrosoft_Extensions_ApiDescription_Server)' == '' ">C:\Users\TCIG-Valli\.nuget\packages\microsoft.extensions.apidescription.server\6.0.5</PkgMicrosoft_Extensions_ApiDescription_Server>
     <PkgMicrosoft_CodeAnalysis_Analyzers Condition=" '$(PkgMicrosoft_CodeAnalysis_Analyzers)' == '' ">C:\Users\TCIG-Valli\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.4</PkgMicrosoft_CodeAnalysis_Analyzers>
     <PkgMicrosoft_AspNetCore_Razor_Design Condition=" '$(PkgMicrosoft_AspNetCore_Razor_Design)' == '' ">C:\Users\TCIG-Valli\.nuget\packages\microsoft.aspnetcore.razor.design\2.1.1</PkgMicrosoft_AspNetCore_Razor_Design>

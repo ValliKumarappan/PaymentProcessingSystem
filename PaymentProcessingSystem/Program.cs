@@ -24,9 +24,12 @@ builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+
 builder.Services.AddScoped<IPaymentQueries, PaymentQueries>();
+builder.Services.AddScoped<ICustomerQueries, CustomerQueries>();
+
 builder.Services.AddDbContext<PaymentContext>(options =>
-    options.UseSqlServer(configuration.GetConnectionString("ConnectionStrings:PaymentDb")));
+    options.UseSqlServer(configuration["ConnectionStrings:PaymentDb"]));
 builder.Host.UseServiceProviderFactory(new AutofacServiceProviderFactory())
     .ConfigureContainer<ContainerBuilder>(builder =>
     {

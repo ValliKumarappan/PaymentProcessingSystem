@@ -141,8 +141,8 @@ namespace PaymentProcessingSystem.Infrastructure.Persistence
                  .Build();
 
             var connectionString =
-              //  "Data Source=DESKTOP-IKICVPM\\SQLEXPRESS;Initial Catalog=PaymentDb;TrustServerCertificate=true;MultipleActiveResultSets=true";
-              "Server=10.0.2.51;Database=PaymentProcessingDb;User ID=travesys;Password=bnlgjrsHJHJ@123#;TrustServerCertificate=true";
+               "Data Source=DESKTOP-IKICVPM\\SQLEXPRESS;Initial Catalog=PaymentDb;TrustServerCertificate=true;MultipleActiveResultSets=true;Integrated Security=True;";
+              //"Server=10.0.2.51;Database=PaymentProcessingDb;User ID=travesys;Password=bnlgjrsHJHJ@123#;TrustServerCertificate=true";
 
             //var connectionString = configuration["ConnectionStrings:PaymentsDb"];
             var optionsBuilder = new DbContextOptionsBuilder<PaymentContext>()

@@ -3,50 +3,58 @@
   "WorkspaceRootPath": "D:\\Sample\\New folder\\PaymentProcessingSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FB29F6DA-F9BD-40D7-9AEC-6D65E162047A}|PaymentProcessingSystem.Core\\PaymentProcessingSystem.Core.csproj|d:\\sample\\new folder\\paymentprocessingsystem\\paymentprocessingsystem.core\\commands\\createpaymentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB29F6DA-F9BD-40D7-9AEC-6D65E162047A}|PaymentProcessingSystem.Core\\PaymentProcessingSystem.Core.csproj|solutionrelative:paymentprocessingsystem.core\\commands\\createpaymentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FA439CA5-1777-4099-B02E-4BDC4ACA54F9}|PaymentProcessingSystem\\PaymentProcessingSystem.csproj|d:\\sample\\new folder\\paymentprocessingsystem\\paymentprocessingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA439CA5-1777-4099-B02E-4BDC4ACA54F9}|PaymentProcessingSystem\\PaymentProcessingSystem.csproj|solutionrelative:paymentprocessingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA439CA5-1777-4099-B02E-4BDC4ACA54F9}|PaymentProcessingSystem\\PaymentProcessingSystem.csproj|d:\\sample\\new folder\\paymentprocessingsystem\\paymentprocessingsystem\\extensions\\applicationmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA439CA5-1777-4099-B02E-4BDC4ACA54F9}|PaymentProcessingSystem\\PaymentProcessingSystem.csproj|solutionrelative:paymentprocessingsystem\\extensions\\applicationmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FB29F6DA-F9BD-40D7-9AEC-6D65E162047A}|PaymentProcessingSystem.Core\\PaymentProcessingSystem.Core.csproj|d:\\sample\\new folder\\paymentprocessingsystem\\paymentprocessingsystem.core\\queries\\icustomerqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB29F6DA-F9BD-40D7-9AEC-6D65E162047A}|PaymentProcessingSystem.Core\\PaymentProcessingSystem.Core.csproj|solutionrelative:paymentprocessingsystem.core\\queries\\icustomerqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA439CA5-1777-4099-B02E-4BDC4ACA54F9}|PaymentProcessingSystem\\PaymentProcessingSystem.csproj|d:\\sample\\new folder\\paymentprocessingsystem\\paymentprocessingsystem\\extensions\\mediatormodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA439CA5-1777-4099-B02E-4BDC4ACA54F9}|PaymentProcessingSystem\\PaymentProcessingSystem.csproj|solutionrelative:paymentprocessingsystem\\extensions\\mediatormodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{03C2BED0-F247-42D2-A6BD-ACA04A9BBB83}|PaymentProcessingSystem.SharedKernel\\PaymentProcessingSystem.SharedKernel.csproj|d:\\sample\\new folder\\paymentprocessingsystem\\paymentprocessingsystem.sharedkernel\\filtermodels\\customerfilters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03C2BED0-F247-42D2-A6BD-ACA04A9BBB83}|PaymentProcessingSystem.SharedKernel\\PaymentProcessingSystem.SharedKernel.csproj|solutionrelative:paymentprocessingsystem.sharedkernel\\filtermodels\\customerfilters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB29F6DA-F9BD-40D7-9AEC-6D65E162047A}|PaymentProcessingSystem.Core\\PaymentProcessingSystem.Core.csproj|d:\\sample\\new folder\\paymentprocessingsystem\\paymentprocessingsystem.core\\queries\\customerqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB29F6DA-F9BD-40D7-9AEC-6D65E162047A}|PaymentProcessingSystem.Core\\PaymentProcessingSystem.Core.csproj|solutionrelative:paymentprocessingsystem.core\\queries\\customerqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB29F6DA-F9BD-40D7-9AEC-6D65E162047A}|PaymentProcessingSystem.Core\\PaymentProcessingSystem.Core.csproj|d:\\sample\\new folder\\paymentprocessingsystem\\paymentprocessingsystem.core\\queries\\paymentqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB29F6DA-F9BD-40D7-9AEC-6D65E162047A}|PaymentProcessingSystem.Core\\PaymentProcessingSystem.Core.csproj|solutionrelative:paymentprocessingsystem.core\\queries\\paymentqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA439CA5-1777-4099-B02E-4BDC4ACA54F9}|PaymentProcessingSystem\\PaymentProcessingSystem.csproj|d:\\sample\\new folder\\paymentprocessingsystem\\paymentprocessingsystem\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA439CA5-1777-4099-B02E-4BDC4ACA54F9}|PaymentProcessingSystem\\PaymentProcessingSystem.csproj|solutionrelative:paymentprocessingsystem\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03C2BED0-F247-42D2-A6BD-ACA04A9BBB83}|PaymentProcessingSystem.SharedKernel\\PaymentProcessingSystem.SharedKernel.csproj|d:\\sample\\new folder\\paymentprocessingsystem\\paymentprocessingsystem.sharedkernel\\domain\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03C2BED0-F247-42D2-A6BD-ACA04A9BBB83}|PaymentProcessingSystem.SharedKernel\\PaymentProcessingSystem.SharedKernel.csproj|solutionrelative:paymentprocessingsystem.sharedkernel\\domain\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB29F6DA-F9BD-40D7-9AEC-6D65E162047A}|PaymentProcessingSystem.Core\\PaymentProcessingSystem.Core.csproj|d:\\sample\\new folder\\paymentprocessingsystem\\paymentprocessingsystem.core\\commands\\createcustomercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB29F6DA-F9BD-40D7-9AEC-6D65E162047A}|PaymentProcessingSystem.Core\\PaymentProcessingSystem.Core.csproj|solutionrelative:paymentprocessingsystem.core\\commands\\createcustomercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FA439CA5-1777-4099-B02E-4BDC4ACA54F9}|PaymentProcessingSystem\\PaymentProcessingSystem.csproj|d:\\sample\\new folder\\paymentprocessingsystem\\paymentprocessingsystem\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FA439CA5-1777-4099-B02E-4BDC4ACA54F9}|PaymentProcessingSystem\\PaymentProcessingSystem.csproj|solutionrelative:paymentprocessingsystem\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{FB29F6DA-F9BD-40D7-9AEC-6D65E162047A}|PaymentProcessingSystem.Core\\PaymentProcessingSystem.Core.csproj|d:\\sample\\new folder\\paymentprocessingsystem\\paymentprocessingsystem.core\\queries\\ipaymentqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB29F6DA-F9BD-40D7-9AEC-6D65E162047A}|PaymentProcessingSystem.Core\\PaymentProcessingSystem.Core.csproj|solutionrelative:paymentprocessingsystem.core\\queries\\ipaymentqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EF0B3671-186E-4F25-AFA9-53C8F7444986}|PaymentProcessingSystem.Infrastructure\\PaymentProcessingSystem.Infrastructure.csproj|d:\\sample\\new folder\\paymentprocessingsystem\\paymentprocessingsystem.infrastructure\\persistence\\paymentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EF0B3671-186E-4F25-AFA9-53C8F7444986}|PaymentProcessingSystem.Infrastructure\\PaymentProcessingSystem.Infrastructure.csproj|solutionrelative:paymentprocessingsystem.infrastructure\\persistence\\paymentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA439CA5-1777-4099-B02E-4BDC4ACA54F9}|PaymentProcessingSystem\\PaymentProcessingSystem.csproj|d:\\sample\\new folder\\paymentprocessingsystem\\paymentprocessingsystem\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{FA439CA5-1777-4099-B02E-4BDC4ACA54F9}|PaymentProcessingSystem\\PaymentProcessingSystem.csproj|solutionrelative:paymentprocessingsystem\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FA439CA5-1777-4099-B02E-4BDC4ACA54F9}|PaymentProcessingSystem\\PaymentProcessingSystem.csproj|d:\\sample\\new folder\\paymentprocessingsystem\\paymentprocessingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA439CA5-1777-4099-B02E-4BDC4ACA54F9}|PaymentProcessingSystem\\PaymentProcessingSystem.csproj|solutionrelative:paymentprocessingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FA439CA5-1777-4099-B02E-4BDC4ACA54F9}|PaymentProcessingSystem\\PaymentProcessingSystem.csproj|d:\\sample\\new folder\\paymentprocessingsystem\\paymentprocessingsystem\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{FA439CA5-1777-4099-B02E-4BDC4ACA54F9}|PaymentProcessingSystem\\PaymentProcessingSystem.csproj|solutionrelative:paymentprocessingsystem\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FA439CA5-1777-4099-B02E-4BDC4ACA54F9}|PaymentProcessingSystem\\PaymentProcessingSystem.csproj|d:\\sample\\new folder\\paymentprocessingsystem\\paymentprocessingsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{FA439CA5-1777-4099-B02E-4BDC4ACA54F9}|PaymentProcessingSystem\\PaymentProcessingSystem.csproj|solutionrelative:paymentprocessingsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{03C2BED0-F247-42D2-A6BD-ACA04A9BBB83}|PaymentProcessingSystem.SharedKernel\\PaymentProcessingSystem.SharedKernel.csproj|d:\\sample\\new folder\\paymentprocessingsystem\\paymentprocessingsystem.sharedkernel\\filtermodels\\datarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03C2BED0-F247-42D2-A6BD-ACA04A9BBB83}|PaymentProcessingSystem.SharedKernel\\PaymentProcessingSystem.SharedKernel.csproj|solutionrelative:paymentprocessingsystem.sharedkernel\\filtermodels\\datarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\TCIG-Valli\\AppData\\Local\\Temp\\.vsdbgsrc\\757f24738a3cb57db1f811170822ff5041b2d1077885b6775612207d9121427e\\RegistrationBuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\TCIG-Valli\\AppData\\Local\\SourceServer\\afc99f37b239ca8b7176b842f2b13c7a033d74ce98e3a3d64edbb568c34fcf66\\src\\EFCore\\Extensions\\EntityFrameworkServiceCollectionExtensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB29F6DA-F9BD-40D7-9AEC-6D65E162047A}|PaymentProcessingSystem.Core\\PaymentProcessingSystem.Core.csproj|d:\\sample\\new folder\\paymentprocessingsystem\\paymentprocessingsystem.core\\commands\\updatepaymentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB29F6DA-F9BD-40D7-9AEC-6D65E162047A}|PaymentProcessingSystem.Core\\PaymentProcessingSystem.Core.csproj|solutionrelative:paymentprocessingsystem.core\\commands\\updatepaymentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EF0B3671-186E-4F25-AFA9-53C8F7444986}|PaymentProcessingSystem.Infrastructure\\PaymentProcessingSystem.Infrastructure.csproj|d:\\sample\\new folder\\paymentprocessingsystem\\paymentprocessingsystem.infrastructure\\services\\ientitiescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -59,18 +67,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{EF0B3671-186E-4F25-AFA9-53C8F7444986}|PaymentProcessingSystem.Infrastructure\\PaymentProcessingSystem.Infrastructure.csproj|d:\\sample\\new folder\\paymentprocessingsystem\\paymentprocessingsystem.infrastructure\\migrations\\20241230220253_add-payments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EF0B3671-186E-4F25-AFA9-53C8F7444986}|PaymentProcessingSystem.Infrastructure\\PaymentProcessingSystem.Infrastructure.csproj|solutionrelative:paymentprocessingsystem.infrastructure\\migrations\\20241230220253_add-payments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{03C2BED0-F247-42D2-A6BD-ACA04A9BBB83}|PaymentProcessingSystem.SharedKernel\\PaymentProcessingSystem.SharedKernel.csproj|d:\\sample\\new folder\\paymentprocessingsystem\\paymentprocessingsystem.sharedkernel\\domain\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{03C2BED0-F247-42D2-A6BD-ACA04A9BBB83}|PaymentProcessingSystem.SharedKernel\\PaymentProcessingSystem.SharedKernel.csproj|solutionrelative:paymentprocessingsystem.sharedkernel\\domain\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB29F6DA-F9BD-40D7-9AEC-6D65E162047A}|PaymentProcessingSystem.Core\\PaymentProcessingSystem.Core.csproj|d:\\sample\\new folder\\paymentprocessingsystem\\paymentprocessingsystem.core\\queries\\paymentqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB29F6DA-F9BD-40D7-9AEC-6D65E162047A}|PaymentProcessingSystem.Core\\PaymentProcessingSystem.Core.csproj|solutionrelative:paymentprocessingsystem.core\\queries\\paymentqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB29F6DA-F9BD-40D7-9AEC-6D65E162047A}|PaymentProcessingSystem.Core\\PaymentProcessingSystem.Core.csproj|d:\\sample\\new folder\\paymentprocessingsystem\\paymentprocessingsystem.core\\queries\\ipaymentqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB29F6DA-F9BD-40D7-9AEC-6D65E162047A}|PaymentProcessingSystem.Core\\PaymentProcessingSystem.Core.csproj|solutionrelative:paymentprocessingsystem.core\\queries\\ipaymentqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -80,7 +76,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 67,
+          "SelectedChildIndex": 65,
           "Children": [
             {
               "$type": "Bookmark",
@@ -344,111 +340,152 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PaymentContext.cs",
-              "DocumentMoniker": "D:\\Sample\\New folder\\PaymentProcessingSystem\\PaymentProcessingSystem.Infrastructure\\Persistence\\PaymentContext.cs",
-              "RelativeDocumentMoniker": "PaymentProcessingSystem.Infrastructure\\Persistence\\PaymentContext.cs",
-              "ToolTip": "D:\\Sample\\New folder\\PaymentProcessingSystem\\PaymentProcessingSystem.Infrastructure\\Persistence\\PaymentContext.cs",
-              "RelativeToolTip": "PaymentProcessingSystem.Infrastructure\\Persistence\\PaymentContext.cs",
-              "ViewState": "AQIAAIAAAAAAAAAAAAAUwJAAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T19:10:04.757Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PaymentController.cs",
-              "DocumentMoniker": "D:\\Sample\\New folder\\PaymentProcessingSystem\\PaymentProcessingSystem\\Controllers\\PaymentController.cs",
-              "RelativeDocumentMoniker": "PaymentProcessingSystem\\Controllers\\PaymentController.cs",
-              "ToolTip": "D:\\Sample\\New folder\\PaymentProcessingSystem\\PaymentProcessingSystem\\Controllers\\PaymentController.cs",
-              "RelativeToolTip": "PaymentProcessingSystem\\Controllers\\PaymentController.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAAwB0AAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T17:43:19.31Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CreatePaymentCommand.cs",
-              "DocumentMoniker": "D:\\Sample\\New folder\\PaymentProcessingSystem\\PaymentProcessingSystem.Core\\Commands\\CreatePaymentCommand.cs",
-              "RelativeDocumentMoniker": "PaymentProcessingSystem.Core\\Commands\\CreatePaymentCommand.cs",
-              "ToolTip": "D:\\Sample\\New folder\\PaymentProcessingSystem\\PaymentProcessingSystem.Core\\Commands\\CreatePaymentCommand.cs",
-              "RelativeToolTip": "PaymentProcessingSystem.Core\\Commands\\CreatePaymentCommand.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAAABYAAABBAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T18:57:19.897Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ApplicationModule.cs",
-              "DocumentMoniker": "D:\\Sample\\New folder\\PaymentProcessingSystem\\PaymentProcessingSystem\\Extensions\\ApplicationModule.cs",
-              "RelativeDocumentMoniker": "PaymentProcessingSystem\\Extensions\\ApplicationModule.cs",
-              "ToolTip": "D:\\Sample\\New folder\\PaymentProcessingSystem\\PaymentProcessingSystem\\Extensions\\ApplicationModule.cs",
-              "RelativeToolTip": "PaymentProcessingSystem\\Extensions\\ApplicationModule.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAuwBsAAABtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T19:23:19.553Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MediatorModule.cs",
-              "DocumentMoniker": "D:\\Sample\\New folder\\PaymentProcessingSystem\\PaymentProcessingSystem\\Extensions\\MediatorModule.cs",
-              "RelativeDocumentMoniker": "PaymentProcessingSystem\\Extensions\\MediatorModule.cs",
-              "ToolTip": "D:\\Sample\\New folder\\PaymentProcessingSystem\\PaymentProcessingSystem\\Extensions\\MediatorModule.cs",
-              "RelativeToolTip": "PaymentProcessingSystem\\Extensions\\MediatorModule.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T19:31:14.08Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "D:\\Sample\\New folder\\PaymentProcessingSystem\\PaymentProcessingSystem\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "PaymentProcessingSystem\\appsettings.Development.json",
-              "ToolTip": "D:\\Sample\\New folder\\PaymentProcessingSystem\\PaymentProcessingSystem\\appsettings.Development.json",
-              "RelativeToolTip": "PaymentProcessingSystem\\appsettings.Development.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-01T14:04:00.828Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Sample\\New folder\\PaymentProcessingSystem\\PaymentProcessingSystem\\Program.cs",
               "RelativeDocumentMoniker": "PaymentProcessingSystem\\Program.cs",
               "ToolTip": "D:\\Sample\\New folder\\PaymentProcessingSystem\\PaymentProcessingSystem\\Program.cs",
               "RelativeToolTip": "PaymentProcessingSystem\\Program.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAewCsAAAASAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T18:17:27.216Z",
+              "WhenOpened": "2025-01-01T22:47:54.193Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerFilters.cs",
+              "DocumentMoniker": "D:\\Sample\\New folder\\PaymentProcessingSystem\\PaymentProcessingSystem.SharedKernel\\FilterModels\\CustomerFilters.cs",
+              "RelativeDocumentMoniker": "PaymentProcessingSystem.SharedKernel\\FilterModels\\CustomerFilters.cs",
+              "ToolTip": "D:\\Sample\\New folder\\PaymentProcessingSystem\\PaymentProcessingSystem.SharedKernel\\FilterModels\\CustomerFilters.cs",
+              "RelativeToolTip": "PaymentProcessingSystem.SharedKernel\\FilterModels\\CustomerFilters.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T22:39:39.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "D:\\Sample\\New folder\\PaymentProcessingSystem\\PaymentProcessingSystem.SharedKernel\\Domain\\Payment.cs",
+              "RelativeDocumentMoniker": "PaymentProcessingSystem.SharedKernel\\Domain\\Payment.cs",
+              "ToolTip": "D:\\Sample\\New folder\\PaymentProcessingSystem\\PaymentProcessingSystem.SharedKernel\\Domain\\Payment.cs",
+              "RelativeToolTip": "PaymentProcessingSystem.SharedKernel\\Domain\\Payment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T19:01:52.522Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "D:\\Sample\\New folder\\PaymentProcessingSystem\\PaymentProcessingSystem\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "PaymentProcessingSystem\\Properties\\launchSettings.json",
-              "ToolTip": "D:\\Sample\\New folder\\PaymentProcessingSystem\\PaymentProcessingSystem\\Properties\\launchSettings.json",
-              "RelativeToolTip": "PaymentProcessingSystem\\Properties\\launchSettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-01T20:28:27.184Z",
-              "EditorCaption": ""
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "D:\\Sample\\New folder\\PaymentProcessingSystem\\PaymentProcessingSystem\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "PaymentProcessingSystem\\Controllers\\CustomerController.cs",
+              "ToolTip": "D:\\Sample\\New folder\\PaymentProcessingSystem\\PaymentProcessingSystem\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "PaymentProcessingSystem\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAlwBIAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T22:18:23.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerQueries.cs",
+              "DocumentMoniker": "D:\\Sample\\New folder\\PaymentProcessingSystem\\PaymentProcessingSystem.Core\\Queries\\CustomerQueries.cs",
+              "RelativeDocumentMoniker": "PaymentProcessingSystem.Core\\Queries\\CustomerQueries.cs",
+              "ToolTip": "D:\\Sample\\New folder\\PaymentProcessingSystem\\PaymentProcessingSystem.Core\\Queries\\CustomerQueries.cs",
+              "RelativeToolTip": "PaymentProcessingSystem.Core\\Queries\\CustomerQueries.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T22:19:30.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ICustomerQueries.cs",
+              "DocumentMoniker": "D:\\Sample\\New folder\\PaymentProcessingSystem\\PaymentProcessingSystem.Core\\Queries\\ICustomerQueries.cs",
+              "RelativeDocumentMoniker": "PaymentProcessingSystem.Core\\Queries\\ICustomerQueries.cs",
+              "ToolTip": "D:\\Sample\\New folder\\PaymentProcessingSystem\\PaymentProcessingSystem.Core\\Queries\\ICustomerQueries.cs",
+              "RelativeToolTip": "PaymentProcessingSystem.Core\\Queries\\ICustomerQueries.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T22:19:22.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PaymentQueries.cs",
+              "DocumentMoniker": "D:\\Sample\\New folder\\PaymentProcessingSystem\\PaymentProcessingSystem.Core\\Queries\\PaymentQueries.cs",
+              "RelativeDocumentMoniker": "PaymentProcessingSystem.Core\\Queries\\PaymentQueries.cs",
+              "ToolTip": "D:\\Sample\\New folder\\PaymentProcessingSystem\\PaymentProcessingSystem.Core\\Queries\\PaymentQueries.cs",
+              "RelativeToolTip": "PaymentProcessingSystem.Core\\Queries\\PaymentQueries.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAawBAAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T18:54:04.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateCustomerCommand.cs",
+              "DocumentMoniker": "D:\\Sample\\New folder\\PaymentProcessingSystem\\PaymentProcessingSystem.Core\\Commands\\CreateCustomerCommand.cs",
+              "RelativeDocumentMoniker": "PaymentProcessingSystem.Core\\Commands\\CreateCustomerCommand.cs",
+              "ToolTip": "D:\\Sample\\New folder\\PaymentProcessingSystem\\PaymentProcessingSystem.Core\\Commands\\CreateCustomerCommand.cs",
+              "RelativeToolTip": "PaymentProcessingSystem.Core\\Commands\\CreateCustomerCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T22:20:29.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "D:\\Sample\\New folder\\PaymentProcessingSystem\\PaymentProcessingSystem\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "PaymentProcessingSystem\\Controllers\\PaymentController.cs",
+              "ToolTip": "D:\\Sample\\New folder\\PaymentProcessingSystem\\PaymentProcessingSystem\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "PaymentProcessingSystem\\Controllers\\PaymentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T17:43:19.31Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "IPaymentQueries.cs",
+              "DocumentMoniker": "D:\\Sample\\New folder\\PaymentProcessingSystem\\PaymentProcessingSystem.Core\\Queries\\IPaymentQueries.cs",
+              "RelativeDocumentMoniker": "PaymentProcessingSystem.Core\\Queries\\IPaymentQueries.cs",
+              "ToolTip": "D:\\Sample\\New folder\\PaymentProcessingSystem\\PaymentProcessingSystem.Core\\Queries\\IPaymentQueries.cs",
+              "RelativeToolTip": "PaymentProcessingSystem.Core\\Queries\\IPaymentQueries.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T18:53:52.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PaymentContext.cs",
+              "DocumentMoniker": "D:\\Sample\\New folder\\PaymentProcessingSystem\\PaymentProcessingSystem.Infrastructure\\Persistence\\PaymentContext.cs",
+              "RelativeDocumentMoniker": "PaymentProcessingSystem.Infrastructure\\Persistence\\PaymentContext.cs",
+              "ToolTip": "D:\\Sample\\New folder\\PaymentProcessingSystem\\PaymentProcessingSystem.Infrastructure\\Persistence\\PaymentContext.cs",
+              "RelativeToolTip": "PaymentProcessingSystem.Infrastructure\\Persistence\\PaymentContext.cs",
+              "ViewState": "AQIAAIcAAAAAAAAAAAAuwJUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T19:10:04.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DataRequest.cs",
+              "DocumentMoniker": "D:\\Sample\\New folder\\PaymentProcessingSystem\\PaymentProcessingSystem.SharedKernel\\FilterModels\\DataRequest.cs",
+              "RelativeDocumentMoniker": "PaymentProcessingSystem.SharedKernel\\FilterModels\\DataRequest.cs",
+              "ToolTip": "D:\\Sample\\New folder\\PaymentProcessingSystem\\PaymentProcessingSystem.SharedKernel\\FilterModels\\DataRequest.cs",
+              "RelativeToolTip": "PaymentProcessingSystem.SharedKernel\\FilterModels\\DataRequest.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAUwAEAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T21:47:57.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "RegistrationBuilder.cs",
               "DocumentMoniker": "C:\\Users\\TCIG-Valli\\AppData\\Local\\Temp\\.vsdbgsrc\\757f24738a3cb57db1f811170822ff5041b2d1077885b6775612207d9121427e\\RegistrationBuilder.cs",
               "ToolTip": "C:\\Users\\TCIG-Valli\\AppData\\Local\\Temp\\.vsdbgsrc\\757f24738a3cb57db1f811170822ff5041b2d1077885b6775612207d9121427e\\RegistrationBuilder.cs [Read Only]",
@@ -459,44 +496,17 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "UpdatePaymentCommand.cs",
-              "DocumentMoniker": "D:\\Sample\\New folder\\PaymentProcessingSystem\\PaymentProcessingSystem.Core\\Commands\\UpdatePaymentCommand.cs",
-              "RelativeDocumentMoniker": "PaymentProcessingSystem.Core\\Commands\\UpdatePaymentCommand.cs",
-              "ToolTip": "D:\\Sample\\New folder\\PaymentProcessingSystem\\PaymentProcessingSystem.Core\\Commands\\UpdatePaymentCommand.cs",
-              "RelativeToolTip": "PaymentProcessingSystem.Core\\Commands\\UpdatePaymentCommand.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T19:46:23.362Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Sample\\New folder\\PaymentProcessingSystem\\PaymentProcessingSystem\\appsettings.json",
-              "RelativeDocumentMoniker": "PaymentProcessingSystem\\appsettings.json",
-              "ToolTip": "D:\\Sample\\New folder\\PaymentProcessingSystem\\PaymentProcessingSystem\\appsettings.json",
-              "RelativeToolTip": "PaymentProcessingSystem\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAB/AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-01T20:04:58.98Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "EntityFrameworkServiceCollectionExtensions.cs",
               "DocumentMoniker": "C:\\Users\\TCIG-Valli\\AppData\\Local\\SourceServer\\afc99f37b239ca8b7176b842f2b13c7a033d74ce98e3a3d64edbb568c34fcf66\\src\\EFCore\\Extensions\\EntityFrameworkServiceCollectionExtensions.cs",
               "ToolTip": "C:\\Users\\TCIG-Valli\\AppData\\Local\\SourceServer\\afc99f37b239ca8b7176b842f2b13c7a033d74ce98e3a3d64edbb568c34fcf66\\src\\EFCore\\Extensions\\EntityFrameworkServiceCollectionExtensions.cs",
               "ViewState": "AQIAAFQEAAAAAAAAAAAewGMEAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T19:54:28.752Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-01T19:54:28.752Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "IEntitiesContext.cs",
               "DocumentMoniker": "D:\\Sample\\New folder\\PaymentProcessingSystem\\PaymentProcessingSystem.Infrastructure\\Services\\IEntitiesContext.cs",
               "RelativeDocumentMoniker": "PaymentProcessingSystem.Infrastructure\\Services\\IEntitiesContext.cs",
@@ -508,7 +518,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "CommonResponse.cs",
               "DocumentMoniker": "D:\\Sample\\New folder\\PaymentProcessingSystem\\PaymentProcessingSystem.Core\\CommonResponse.cs",
               "RelativeDocumentMoniker": "PaymentProcessingSystem.Core\\CommonResponse.cs",
@@ -520,7 +530,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "20241230220253_add-Payments.cs",
               "DocumentMoniker": "D:\\Sample\\New folder\\PaymentProcessingSystem\\PaymentProcessingSystem.Infrastructure\\Migrations\\20241230220253_add-Payments.cs",
               "RelativeDocumentMoniker": "PaymentProcessingSystem.Infrastructure\\Migrations\\20241230220253_add-Payments.cs",
@@ -529,42 +539,6 @@
               "ViewState": "AQIAAEAAAAAAAAAAAAAkwBgAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-01T19:08:40.625Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Payment.cs",
-              "DocumentMoniker": "D:\\Sample\\New folder\\PaymentProcessingSystem\\PaymentProcessingSystem.SharedKernel\\Domain\\Payment.cs",
-              "RelativeDocumentMoniker": "PaymentProcessingSystem.SharedKernel\\Domain\\Payment.cs",
-              "ToolTip": "D:\\Sample\\New folder\\PaymentProcessingSystem\\PaymentProcessingSystem.SharedKernel\\Domain\\Payment.cs",
-              "RelativeToolTip": "PaymentProcessingSystem.SharedKernel\\Domain\\Payment.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAA/wBkAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T19:01:52.522Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "PaymentQueries.cs",
-              "DocumentMoniker": "D:\\Sample\\New folder\\PaymentProcessingSystem\\PaymentProcessingSystem.Core\\Queries\\PaymentQueries.cs",
-              "RelativeDocumentMoniker": "PaymentProcessingSystem.Core\\Queries\\PaymentQueries.cs",
-              "ToolTip": "D:\\Sample\\New folder\\PaymentProcessingSystem\\PaymentProcessingSystem.Core\\Queries\\PaymentQueries.cs",
-              "RelativeToolTip": "PaymentProcessingSystem.Core\\Queries\\PaymentQueries.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T18:54:04.148Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "IPaymentQueries.cs",
-              "DocumentMoniker": "D:\\Sample\\New folder\\PaymentProcessingSystem\\PaymentProcessingSystem.Core\\Queries\\IPaymentQueries.cs",
-              "RelativeDocumentMoniker": "PaymentProcessingSystem.Core\\Queries\\IPaymentQueries.cs",
-              "ToolTip": "D:\\Sample\\New folder\\PaymentProcessingSystem\\PaymentProcessingSystem.Core\\Queries\\IPaymentQueries.cs",
-              "RelativeToolTip": "PaymentProcessingSystem.Core\\Queries\\IPaymentQueries.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T18:53:52.26Z"
             }
           ]
         }

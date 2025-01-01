@@ -1,12 +1,10 @@
-﻿using Catel.Data;
-using MediatR;
+﻿using MediatR;
 using Microsoft.AspNetCore.Authorization;
-using Microsoft.AspNetCore.Components.Forms;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.Extensions.Logging;
-using Newtonsoft.Json;
 using PaymentProcessingSystem.Core;
 using PaymentProcessingSystem.Core.Commands;
+using PaymentProcessingSystem.Core.Queries;
+using PaymentProcessingSystem.SharedKernel.FilterModels;
 using System.Net;
 
 namespace PaymentProcessingSystem.Controllers;
@@ -18,7 +16,7 @@ namespace PaymentProcessingSystem.Controllers;
 [ProducesResponseType(typeof(CommonResponse), 401)]
 [ProducesResponseType(typeof(CommonResponse), 500)]
 [AllowAnonymous]
-public class PaymentController(IMediator mediator) : Controller
+public class PaymentController(IMediator mediator, IPaymentQueries queries) : Controller
 {
     [AllowAnonymous]
     [HttpPost("Create")]
@@ -33,7 +31,7 @@ public class PaymentController(IMediator mediator) : Controller
     }
 
     [AllowAnonymous]
-    [HttpPost("Update")]
+    [HttpPut("Update")]
     [ProducesResponseType(typeof(CommonResponse), (int)HttpStatusCode.OK)]
     [ProducesResponseType(typeof(CommonResponse), (int)HttpStatusCode.BadRequest)]
     public async Task<IActionResult> UpdatePolicy([FromBody] UpdatePaymentCommand command)
@@ -42,5 +40,29 @@ public class PaymentController(IMediator mediator) : Controller
         var commandResult = await mediator.Send(command);
 
         return commandResult != null ? Ok(commandResult) : BadRequest();
+    }
+
+    [HttpGet("List")]
+    [ProducesResponseType(typeof(CommonResponse), 200)]
+    [ProducesResponseType(typeof(CommonResponse), 409)]
+    [ProducesResponseType(typeof(CommonResponse), 404)]
+    public async Task<IActionResult> GetList([FromQuery] PaymentFilters command)
+    {
+        var commandResult = await queries.GetList(command);
+
+        return StatusCode(commandResult.StatusCode, commandResult);
+
+    }
+
+    [HttpGet("ListByUsers")]
+    [ProducesResponseType(typeof(CommonResponse), 200)]
+    [ProducesResponseType(typeof(CommonResponse), 409)]
+    [ProducesResponseType(typeof(CommonResponse), 404)]
+    public async Task<IActionResult> GetListByUsers([FromQuery] string name)
+    {
+        var commandResult = await queries.GetListByUsers(name);
+
+        return StatusCode(commandResult.StatusCode, commandResult);
+
     }
 }
