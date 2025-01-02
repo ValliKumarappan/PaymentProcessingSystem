@@ -32,7 +32,7 @@ public class CreatePaymentCommandHandler(PaymentContext context) : IRequestHandl
 
             var currencyName = countryDtls?.FirstOrDefault(x => x.code == message.Currency)?.name ?? string.Empty;
 
-            if (!string.IsNullOrEmpty(currencyName))
+            if (string.IsNullOrEmpty(currencyName))
             {
                 return CommonResponse.CreateFailedResponse("Invalid Currency", "204");
             }
