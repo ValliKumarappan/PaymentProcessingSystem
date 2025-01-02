@@ -1,13 +1,9 @@
 ﻿using MediatR;
-using Microsoft.Extensions.Logging;
 using PaymentProcessingSystem.Infrastructure.Persistence;
 using PaymentProcessingSystem.SharedKernel.Domain;
 using PaymentProcessingSystem.SharedKernel.Enums;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using PaymentProcessingSystem.ViewModels;
+using System.Text.Json;
 
 namespace PaymentProcessingSystem.Core.Commands;
 
@@ -26,6 +22,20 @@ public class CreatePaymentCommandHandler(PaymentContext context) : IRequestHandl
     {
         try
         {
+            if (message.Amount <= 0)
+            {
+                return CommonResponse.CreateFailedResponse("Amount must be greater than 0", "409");
+            }
+
+            var datajson = File.ReadAllText("StaticFiles" + Path.DirectorySeparatorChar + "Currencies.json");
+            var countryDtls = JsonSerializer.Deserialize<List<CurrencyList>>(datajson);
+
+            var currencyName = countryDtls?.FirstOrDefault(x => x.code == message.Currency)?.name ?? string.Empty;
+
+            if (!string.IsNullOrEmpty(currencyName))
+            {
+                return CommonResponse.CreateFailedResponse("Invalid Currency", "204");
+            }
 
             var paymentModel = new Payment(message.Amount, message.Currency, message.PaymentMethod,
                 message.Status, message.TransactionDate, message.CustomerId);

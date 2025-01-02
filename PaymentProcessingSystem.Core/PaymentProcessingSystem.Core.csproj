@@ -7,6 +7,18 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="StaticFiles\Currencies.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="StaticFiles\Currencies.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="MediatR" Version="12.4.1" />
     <PackageReference Include="Microsoft.Build.Tasks.Core" Version="17.12.6" />
     <PackageReference Include="Mvc.ModelBinding.MultiParameter" Version="8.2.2" />

@@ -365,3 +365,6 @@ D:\Sample\New folder\PaymentProcessingSystem\PaymentProcessingSystem\bin\Debug\n
 D:\Sample\New folder\PaymentProcessingSystem\PaymentProcessingSystem\bin\Debug\net8.0\Uno.UI.dll
 D:\Sample\New folder\PaymentProcessingSystem\PaymentProcessingSystem\bin\Debug\net8.0\Uno.Xaml.dll
 D:\Sample\New folder\PaymentProcessingSystem\PaymentProcessingSystem\bin\Debug\net8.0\Uno.dll
+D:\Sample\New folder\PaymentProcessingSystem\PaymentProcessingSystem\bin\Debug\net8.0\PaymentProcessingSystem.Core\StaticFiles\Currencies.json
+D:\Sample\New folder\PaymentProcessingSystem\PaymentProcessingSystem\bin\Debug\net8.0\StaticFiles\Currencies.json
+D:\Sample\New folder\PaymentProcessingSystem\PaymentProcessingSystem\bin\Debug\net8.0\PaymentProcessingSystem\StaticFiles\Currencies.json
